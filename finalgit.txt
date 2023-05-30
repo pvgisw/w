@@ -1,0 +1,26 @@
+$ cd desktop
+$ cd practice
+$ Git config --global user.name "AnushkaK27"
+$ Git config --global user.email "anushkaskulkarni2711@gmail.com"
+$ git push -u origin master
+$ git config --list
+$ touch file1.txt
+$ git status
+$ git init
+$ git add file1.txt
+$ git status
+$ git add .
+$ git commit -m "my first commit"
+$ git remote add origin https://github.com/AnushkaK27/pracrepo
+$ git push -u origin master
+$ git branch branch1
+$ git branch --list
+$ git checkout branch1
+$ touch eg.txt
+$ git commit -m "my second commit"
+$ git add eg.txt
+$ git status
+$ git push -u origin branch1
+$ git checkout master
+
+
