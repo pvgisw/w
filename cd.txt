@@ -1,0 +1,3 @@
+>py google-cloud-sdk\bin\dev_appserver.py "C:\Users\Shruti\Downloads\cc1"
+
+scp f.txt vagrant@10.0.2.2:/home/vagrant
